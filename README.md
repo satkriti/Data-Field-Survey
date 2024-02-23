@@ -1,0 +1,1 @@
+This repository contains only one Power BI dashboard I created based on the survey taken by Alex The Analyst on people transitioning to data related career such as Data Analyst, Data Scientist, Data Engineer, etc.
